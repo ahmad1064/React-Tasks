@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "question": "What is React?",
+    "options": ["Library", "Framework", "Language", "Database"],
+    "answer": "Library"
+  },
+  {
+    "id": 2,
+    "question": "What hook is used for state?",
+    "options": ["useEffect", "useState", "useRef", "useMemo"],
+    "answer": "useState"
+  },
+  {
+    "id": 3,
+    "question": "React is developed by?",
+    "options": ["Google", "Microsoft", "Facebook", "Amazon"],
+    "answer": "Facebook"
+  }
+]
